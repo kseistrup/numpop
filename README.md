@@ -55,6 +55,6 @@ Quit prematurely with `Q` or `^C`.
 * Awk
   * [numpop.awk](https://gist.github.com/mdom/0d1c0c87403d98700c7d4bed08c41a38)
 * C
-  * [cnumpop](https://tx.god.jp/code/cnumpop/files.html)
+  * [cnumpop](https://code.shroom.party/cnumpop/files.html)
 
 :smile:
